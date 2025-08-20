@@ -46,33 +46,6 @@ WebDriverManager 6.2.0
 Eclipse IDE
 
 
-
----
-
-📁 Project Structure
-
-facebook-automationdob/
-├── src/
-│ ├── main/
-│ │ └── java/
-│ │ └── com.facebook/
-│ │ ├── base/
-│ │ │ └── DriverSetup.java
-│ │ ├── pages/
-│ │ │ ├── Facebook_Login_Page.java
-│ │ │ └── Signup_Page.java
-│ │ ├── utils/
-│ │ │ ├── ExcelReadWrite.java
-│ │ │ ├── ExtentReportManager.java
-│ │ │ └── ScreenshotUtility.java
-│ │ └── models/
-│ │ └── UserData.java
-│ └── test/
-│    └── java/
-│       └── com.facebook.tests/
-│         └── FacebookSignup_Test.java
-├── testng.xml
-└── pom.xml
 ---
 
 🧾 Test Workflow Overview
