@@ -161,6 +161,7 @@ Detailed reporting with ExtentReports
 Error validation and logging
 Reusable utility classes for screenshots, Excel reading, waits, and reporting
 Cross-browser support with WebDriverManager
+<img width="1908" height="824" alt="ErrorMessages_04-08-2025_11-46-11" src="https://github.com/user-attachments/assets/24df6415-628c-4c50-8608-e30213e1915d" />
 
 
 
